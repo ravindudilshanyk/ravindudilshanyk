@@ -38,7 +38,7 @@
 ---
 
 ### 🌐 Connect With Me
-- LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/ravindudilshany/) 
+- LinkedIn: [Ravindu Dilshan](https://www.linkedin.com/in/ravindudilshany/) 
 - Email: karunathilakad39@gmail.com
 
 ---
