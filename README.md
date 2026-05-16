@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ravindu</h1>
-<h3 align="center">Software Engineering Undergraduate from Sri Lanka 🇱🇰</h3>
+<h1 align="center">Hi 👋, I'm Ravindu Dilshan</h1>
+<h3 align="center">Computer Science & Technology Undergraduate at Uva Wellassa University of Sri Lanka</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 Software Engineering Student
 - 💻 Interested in Full Stack Development
-- 🌱 Currently learning Docker, Node.js, Cloud Technologies
+- 🌱 Currently learning Docker, Cloud Technologies, Ai
 - 🔭 Working on personal web development projects
 - ⚡ Love solving programming problems
 
@@ -20,26 +20,26 @@
 ---
 
 ### 📌 Featured Projects
-- Inventory Management System
-- E-commerce Website
-- Student Management System
-- Real-time Crop Monitoring System
+- Rent IT - Online Rental Platform · University Group Project
+- Pinklet - Interactive Gift Customization Platform · University Group Project
+- Pinklet POS - Desktop Shop Management System · Solo Project
+- Smart Route LK - Intelligent Bus Booking & Route Optimization System · Solo Project
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravindudilshanyk&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ravindudilshanyk&theme=tokyonight)
 
 ---
 
 ### 🌐 Connect With Me
-- LinkedIn: your-linkedin-link
-- Email: your-email@gmail.com
+- LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/ravindudilshany/) 
+- Email: karunathilakad39@gmail.com
 
 ---
 
